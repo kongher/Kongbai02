@@ -4,4 +4,3 @@ Login Screen
 
 Creat Account
 ![z7226851624574_8ca272e1ec43862a302844a51be34cc1](https://github.com/user-attachments/assets/381660bd-3db8-467c-8e4f-d6e9132ce8f4)
-Creat Account
